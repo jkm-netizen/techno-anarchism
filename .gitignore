@@ -1,0 +1,9 @@
+*.log
+*.aux
+*.doc
+*.docx
+*.png
+*.Log
+tmp
+workspace
+res.cls
